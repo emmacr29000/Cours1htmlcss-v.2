@@ -1,0 +1,23 @@
+<html>
+
+<body>
+    <div> 
+
+        <div style="display:flex;border-color : rgb(230, 81, 22);">
+        <div style="border : solid">
+            <h1 style="color : rgb(230, 81, 22) ">Emma Coriou</h1> 
+                <h2 style="color : rgb(230, 81, 22) ">Social Media Manager</h2>
+                <h3 style="color : rgb(230, 81, 22) ">Self Tissus Siège✂️</h3>
+                <h4>Complices de votre passsion.📍</h4>
+                <p>Magasins de tissus et de mercerie</p>
+            <h5>10 rue Louison BOBET 29000 QUIMPER</h5>
+            <p>Téléphone : 02.98.90.19.39</p>
+            <a href="https://www.selftissus.fr/">Self Tissus</a>
+
+                <div>
+            <P><img style="margin-trim : 80px; width : 350px; height : 350px;" src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.30808-6/311784010_5544395728983403_3609176925558882936_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=M-25swjE42oAX_OGMNg&tn=fveG_OIJtmrMBald&_nc_ht=scontent-cdg2-1.xx&oh=00_AT-CgvgewoUhDARavmshlFlNsH2S0zdg-mS-UQdbklAQwQ&oe=63579AC5">
+    </div>
+
+    </body>
+
+</html>
